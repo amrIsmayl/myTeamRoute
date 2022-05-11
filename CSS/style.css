@@ -313,7 +313,7 @@
 }
 
 .code3 a {
-    color: #fff;
+    color: #FFC0CB;
     padding: 13px;
 }
 
@@ -482,6 +482,7 @@
 
 .sec_Services {
     background-color: var(--main-background);
+     color:#8a2ce2;
 }
 
 .hover_Services h3 {
