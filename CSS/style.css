@@ -85,10 +85,10 @@
 .navbar {
     border-bottom: 1px solid rgba(255, 255, 255, 0.2);
 }
-
+/* noha basuny */
 .navbar-light .navbar-nav .nav-link.active,
 .navbar-light .navbar-nav .show>.nav-link {
-    color: #e65f78
+    color: #cf2745
 }
 
 .navbar-light .navbar-nav .nav-link:focus,
